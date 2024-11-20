@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 A change made locally
+=======
+A change made in the remote
+>>>>>>> c74e9e41b85fa644b4c29e3c7d9ff035a4c739ac 
